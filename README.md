@@ -1,2 +1,2 @@
 # MRE-projektna-naloga
-S pomočjo Arduina in DHT11 senzorja ter vezja izdelana samostojna naprava za merjenje in prikaz Temparature in Vlage
+samostojna naprava za merjenje in prikaz Temparature in Vlage na LCD zaslonu izdelana s pomočjo Arduina in DHT11 senzorja
