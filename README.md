@@ -21,4 +21,4 @@ samostojna naprava za merjenje in prikaz Temparature in Vlage na LCD zaslonu izd
 # Videoposnetek delovanja
 
 # Komentar
-   
+ Napravo bi izboljšal tako, da bi DHT11 senzor zamenjal za kateri novejši model kot recimo DHT22, Arduino UNO bi zamenjal za Arduino Micro Da bi lahko naredil napravo bolj kompaktno, LCD 16x2 bi pa nadgradil v I2C 16x2 Arduino LCD Display Module za lažjo povezavo z manj žicami.
