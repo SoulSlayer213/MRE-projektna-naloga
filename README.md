@@ -14,6 +14,7 @@ samostojna naprava za merjenje in prikaz Temparature in Vlage na LCD zaslonu izd
 7. Pleksi steklo za ohišje
 
 # Slika vezalne sheme
+![image](https://github.com/SoulSlayer213/MRE-projektna-naloga/assets/129843209/6c7115d6-8e9e-4f68-b47a-d625cc37b7c0)
 
 # Koda programa
 
